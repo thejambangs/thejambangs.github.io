@@ -22,3 +22,11 @@ footer a {
 footer a:hover {
     background-color: rgb(143, 37, 37);
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
